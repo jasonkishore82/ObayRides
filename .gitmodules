@@ -1,0 +1,6 @@
+[submodule "Autoware"]
+	path = Autoware
+	url = https://github.com/autowarefoundation/autoware.git
+[submodule "Nav2"]
+	path = Nav2
+	url = https://github.com/ros-navigation/navigation2.git
