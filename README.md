@@ -178,7 +178,34 @@ Phase 2 feature. For the first pilot use QR/UPI at drop-off or room charge, whil
 
 ---
 
-## 7. Open Questions
+## 7. Competitive Landscape
+
+Research as of Nov 2026, from press and company profiles. Treat specs and status as unverified until confirmed with the companies.
+
+| Player | Region | Status | Pricing |
+|---|---|---|---|
+| **Omega Seiki (Swayamgati)** | India | Autonomous electric three-wheeler. Lidar, GPS, AI obstacle detection to ~6 m, pre-mapped geofenced routes, remote fleet management. 10.3 kWh battery, ~120 km claimed range. Pilot ran a 3 km, 7-stop route. Bookings opened 1 Dec 2025. Mainly marketed for cargo and intra-campus logistics; a passenger variant exists. | ~₹4 lakh (passenger), ~₹4.15 lakh (cargo) |
+| **TiHAN, IIT Hyderabad** | India | Campus driverless shuttles, 10,000+ rides reported, safety driver on board. Research programme, not a commercial product. | None (facility budget ₹130 crore) |
+| **IIIT-Delhi** | India | Research on an autonomous e-rickshaw for campus routes. | None |
+| **Novus-Drive** | India | 14-seat driverless shuttle shown at Auto Expo 2016. Current status unclear. | Unknown |
+| **Aurrigo** | UK | Active and listed. Auto-Shuttle trials and contracts at airports and in Canada. | No list price. Contracts: ~CAD 1M (Canada, 2025), ~£900k (Teesside, incl. baggage vehicles), ~£250k per shuttle (older Solihull deal) |
+| **Carteav** | Israel / US | Active, small (~$6.5–6.8M raised). Autonomous golf carts for golf and residential communities (e.g. Epperson Lagoon, FL, May 2024), SEA Airport pilot, range ball picker. B2B. | Not published |
+| **Auro Robotics** | US (IIT Kharagpur founders) | Left the shuttle business. Listed as acquired (reportedly by Ridecell, unconfirmed). | n/a |
+
+### Takeaways
+- The concept is proven, and private land is lightly regulated.
+- No Indian company found sells a packaged **tourism / resort** product. This looks like an open gap.
+- Omega Seiki shows a ~₹4 lakh autonomous vehicle can be sold in India, so cost targets are realistic. It could extend into hospitality, so secure pilots early.
+- Western shuttle pricing (£250k+ per vehicle) is well above what Indian resorts would pay. A low-cost kit on a local golf cart can undercut it.
+- Differentiators to build: passenger experience (check-in, greeting, language, destination choice), resort billing integration, and a 4-6 seat golf-cart form factor.
+
+### To verify
+- Swayamgati autonomy level, speed, payload, safety certification, passenger seating, and whether it needs an onboard operator.
+- Whether Aurrigo or Carteav plan to enter India.
+
+---
+
+## 8. Open Questions
 
 - Is the cart fully driverless, or driver-optional/assisted at first?
 - Which sites or locations are targeted for the pilot?
@@ -187,7 +214,7 @@ Phase 2 feature. For the first pilot use QR/UPI at drop-off or room charge, whil
 
 ---
 
-## 8. Next Steps
+## 9. Next Steps
 
 - [ ] Choose the pilot site and route
 - [ ] Get quotes from EV cart makers
